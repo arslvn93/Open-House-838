@@ -12,7 +12,7 @@ const config = {
     "phone": "",
     "email": "ryan@driscollpeca.com",
     "bio": "Professional real estate service. For questions about this property or the neighbourhood, contact the Driscoll-Peca Team.",
-    "photoUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/490407201_1128829825922029_4606813297380401417_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5wTIQbnq3IIQ7kNvwG97EZ_&_nc_oc=AdkBMSKDMBFV1dHuAxd1oIHbW9e3IIbxyr2mKlqBo61mizENYmxZUQf6g0y2DFCnxGs&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=FbV1ze41DfWNl975E5ejmQ&oh=00_AfT9Ee6LMGghbGmn4cBdTSKyiecLNrMQfJBJXSt0nNvNnA&oe=68870392",
+    "photoUrl": "https://i.ibb.co/vCRbPkpD/jaime-peca-hs.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://www.instagram.com/driscollpecateam/",
