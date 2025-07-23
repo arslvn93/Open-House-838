@@ -9,19 +9,19 @@ const config = {
   "realtor": {
     "fullName": "Driscoll-Peca Team",
     "title": "REALTOR®",
-    "phone": null,
+    "phone": "",
     "email": "ryan@driscollpeca.com",
     "bio": "Professional real estate service. For questions about this property or the neighbourhood, contact the Driscoll-Peca Team.",
-    "photoUrl": null,
+    "photoUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/490407201_1128829825922029_4606813297380401417_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5wTIQbnq3IIQ7kNvwG97EZ_&_nc_oc=AdkBMSKDMBFV1dHuAxd1oIHbW9e3IIbxyr2mKlqBo61mizENYmxZUQf6g0y2DFCnxGs&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=FbV1ze41DfWNl975E5ejmQ&oh=00_AfT9Ee6LMGghbGmn4cBdTSKyiecLNrMQfJBJXSt0nNvNnA&oe=68870392",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://instagram.com/ae.parks",
-      "website": null
+      "website": ""
     }
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": null,
+    "logoUrl": "",
     "address": "218 Brant Avenue, Brantford, ON N3T 3H9"
   },
   "openHouse": {
@@ -29,8 +29,7 @@ const config = {
     "bundleItems": [
       {
         "icon": "fas fa-link",
-        "text": "Property Listing URL",
-        "url": "https://sites.ground2airmedia.com/sites/114-smith-rd-oxford-station-on-k0g-1t0-17249967/branded"
+        "text": "Property Listing URL"
       },
       {
         "icon": "fas fa-image",
@@ -63,36 +62,72 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
@@ -101,7 +136,8 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Open-House-838",
     "tag": "Open House 114 Smith Road",
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
-    "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse"
+    "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
+    "netlifyUrl": ""
   },
   "netlify": {
     "siteId": "aa1d0d3e-faab-41ae-bc7b-0c8596fdaa2d"
