@@ -11,7 +11,7 @@ const config = {
     "title": "REALTOR®",
     "phone": "",
     "email": "ryan@driscollpeca.com",
-    "bio": "Servicing Ottawa and the surrounding areas.\n\n\nWith years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\n\nWith deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!\n\n",
+    "bio": "Servicing Ottawa and the surrounding areas.\n\n\nWith over 10 years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers.\n\n\nWith deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!\n\n",
     "photoUrl": "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/455772567_1093707349171936_7787146247397576405_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=e5KLjfzx4IoQ7kNvwHLdxj-&_nc_oc=AdlT5M_jUmGbzXMJ4K2YzhFp09tBCLAVKfn_buID4j3kJmgKq00dZNZejIK-wv0phE8&_nc_zt=23&_nc_ht=scontent-yyz1-1.xx&_nc_gid=ezia92rfbhuqWGQx_woXQg&oh=00_AfTUD99sGTDp7DnTDik2aMrGGxnQNRIR0ohKFoQTGdafeQ&oe=68871B3A",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
