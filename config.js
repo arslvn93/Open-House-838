@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "114 Smith Road",
     "city": "Oxford Station",
@@ -102,5 +102,8 @@
     "tag": "Open House 114 Smith Road",
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse"
+  },
+  "netlify": {
+    "siteId": "aa1d0d3e-faab-41ae-bc7b-0c8596fdaa2d"
   }
-}
+};
