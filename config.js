@@ -21,7 +21,7 @@ const config = {
   },
   "brokerage": {
     "name": "Real Broker LTD",
-    "logoUrl": "",
+    "logoUrl": "https://s205.q4cdn.com/544743641/files/design/site_logo/Real-Logo-Outline-Black.png",
     "address": "218 Brant Avenue, Brantford, ON N3T 3H9"
   },
   "openHouse": {
