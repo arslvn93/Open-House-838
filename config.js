@@ -131,7 +131,7 @@ const config = {
     "tag": "Open House 114 Smith Road",
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
-    "netlifyUrl": ""
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/Bz5U2LrvSTZglC5ZrM8D"
   },
   "netlify": {
     "siteId": "aa1d0d3e-faab-41ae-bc7b-0c8596fdaa2d"
